@@ -12,4 +12,12 @@
     <string name="text_description">Description:</string>
     <string name="text_character_name">Character name</string>
     <string name="text_more_info">More info</string>
+    <string name="descri_o">Descrição</string>
+    <string name="descri_oa">Descrição:</string>
+    <string name="sem_descri_os">Sem descrição</string>
+    <string name="nome">Nome</string>
+    <string name="busca_marvel">BUSCA MARVEL</string>
+    <string name="nome_do_personagem">Nome do personagem</string>
+    <string name="personagem">Personagem</string>
+    <string name="informa_oes">Informação</string>
 </resources>
