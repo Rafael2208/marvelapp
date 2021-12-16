@@ -5,7 +5,7 @@ import android.os.Parcelable
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 
 @JsonIgnoreProperties(value = ["comics", "series", "stories", "events", "urls"])
-data class Character(
+ data class Character(
     var id          : Int?          = null,
     var name        : String?       = null,
     var description : String?       = null,
@@ -50,4 +50,3 @@ data class Character(
         }
     }
 }
-

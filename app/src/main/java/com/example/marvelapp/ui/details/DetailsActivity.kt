@@ -4,7 +4,6 @@ import android.net.Uri
 import android.os.Bundle
 import com.example.marvelapp.BaseActivity
 import com.example.marvelapp.R
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import kotlinx.android.synthetic.main.activity_details.*
 
 class DetailsActivity : BaseActivity(){

@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:fillViewport="true"
     tools:context=".ui.details.DetailsActivity">
-
     <androidx.constraintlayout.widget.ConstraintLayout
 
         android:id="@+id/descricao"
